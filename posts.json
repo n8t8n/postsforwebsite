@@ -1,12 +1,22 @@
 [
-    {
+{
+    "imageUrl": "https://img.freepik.com/foto-gratis/representacion-3d-mano-mostrando-pulgares-arriba_23-2150896490.jpg",
+    "title": "Consejo: Usa el Customer Health Score para Mejorar la Retención de Clientes",
+    "postMsg": "Si aún no estás utilizando el *Customer Health Score*, es hora de empezar. Esta métrica es fundamental para predecir la satisfacción y retención de clientes. \n\n**¿Por qué es importante el Customer Health Score?**\nEl *Customer Health Score* te permite identificar a los clientes en riesgo de abandonar tu servicio al monitorear aspectos clave como:\n- *Uso del producto*: Si no lo están utilizando, es un signo de alerta. \n- *Satisfacción del cliente*: Medirla con herramientas como el NPS puede ayudarte a anticipar problemas. \n- *Interacciones con soporte*: Un alto volumen de solicitudes puede indicar frustración. \n- *Renovaciones y pagos*: Si hay retrasos o ausencias, es una señal de que algo no va bien.\n\n**¿Qué hacer con esta información?**\nSi el puntaje de un cliente es bajo, intervén antes de que se dé de baja. Ofrece soporte personalizado, descuentos o incluso una llamada de atención. Para los clientes con un buen puntaje, mantén su satisfacción alta con nuevas ofertas o funcionalidades premium.\n\nAutomatiza este proceso utilizando herramientas de análisis para obtener alertas en tiempo real y actuar rápidamente.\n\nUsar el *Customer Health Score* te permitirá mejorar la retención de clientes, prevenir la cancelación de servicios y optimizar la experiencia del cliente. ¡No subestimes el poder de esta métrica en tu estrategia de *Customer Success* para aumentar la retención! 🚀",
+    "postId": 39,
+    "date": 1734604800000,
+    "postUrl": "como-usar-customer-health-score-para-mejorar-la-retencion-de-clientes"
+},
+
+{
     "imageUrl": "https://img.freepik.com/foto-gratis/persona-que-sostiene-telefono-pantalla-iluminada-que-dice-galaxy_188544-37937.jpg",
     "title": "No necesitas un súper computador para inteligencia artificial",
-    "postMsg": "La **Jetson Orin Nano Super Developer Kit** de Nvidia redefine lo compacto y accesible. Este dispositivo, que literalmente cabe en la palma de tu mano, tiene un precio inicial de apenas $249 (unos 237 euros al cambio actual). 💻\n\nDiseñado para empresas, investigadores y entusiastas, esta microcomputadora es ideal para:\n\n- Desarrollar **chatbots avanzados** para optimizar el *customer support*.\n- Crear **AI agents** que automaticen flujos de trabajo en proyectos SaaS.\n- Prototipar soluciones de **intelligent analytics** que personalicen la experiencia del cliente.\n\nCon características como un módulo **Jetson Orin Nano de 8 GB**, GPU **NVIDIA Ampere** con 1024 núcleos CUDA y soporte para múltiples sensores, esta plataforma combina potencia y flexibilidad en un tamaño reducido.\n\nUn verdadero *game changer* para quienes buscan soluciones innovadoras y accesibles. 🚀",
+    "postMsg": "La *Jetson Orin Nano Super Developer Kit* de Nvidia redefine lo compacto y accesible. Este dispositivo, que literalmente cabe en la palma de tu mano, tiene un precio inicial de apenas $249 (unos 237 euros al cambio actual). 💻\n\nDiseñado para empresas, investigadores y entusiastas, esta microcomputadora es ideal para:\n\n- Desarrollar *chatbots avanzados* para optimizar el *customer support* 💬.\n- Crear *AI agents* que automaticen flujos de trabajo en proyectos SaaS ⚙️.\n- Prototipar soluciones de *intelligent analytics* que personalicen la experiencia del cliente 📊.\n\nCon características como un módulo *Jetson Orin Nano de 8 GB*, GPU *NVIDIA Ampere* con 1024 núcleos CUDA y soporte para múltiples sensores, esta plataforma combina potencia y flexibilidad en un tamaño reducido.\n\nUn verdadero *game changer* para quienes buscan soluciones innovadoras y accesibles. 🚀",
     "postId": 37,
     "date": 1734541600000,
     "postUrl": "jetson-orin-nano-pocket-supercomputer"
-    },
+},
+
     {
         "imageUrl": "https://img.freepik.com/foto-gratis/celebracion-futurista-vispera-ano-nuevo_23-2151084843.jpg",
         "title": "Claude: Personalización de Estilos de Texto",
