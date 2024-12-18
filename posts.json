@@ -1,5 +1,12 @@
 [
-    
+    {
+    "imageUrl": "https://img.freepik.com/foto-gratis/persona-que-sostiene-telefono-pantalla-iluminada-que-dice-galaxy_188544-37937.jpg",
+    "title": "No necesitas un súper computador para inteligencia artificial",
+    "postMsg": "La **Jetson Orin Nano Super Developer Kit** de Nvidia redefine lo compacto y accesible. Este dispositivo, que literalmente cabe en la palma de tu mano, tiene un precio inicial de apenas $249 (unos 237 euros al cambio actual). 💻\n\nDiseñado para empresas, investigadores y entusiastas, esta microcomputadora es ideal para:\n\n- Desarrollar **chatbots avanzados** para optimizar el *customer support*.\n- Crear **AI agents** que automaticen flujos de trabajo en proyectos SaaS.\n- Prototipar soluciones de **intelligent analytics** que personalicen la experiencia del cliente.\n\nCon características como un módulo **Jetson Orin Nano de 8 GB**, GPU **NVIDIA Ampere** con 1024 núcleos CUDA y soporte para múltiples sensores, esta plataforma combina potencia y flexibilidad en un tamaño reducido.\n\nUn verdadero *game changer* para quienes buscan soluciones innovadoras y accesibles. 🚀",
+    "postId": 37,
+    "date": 1734541600000,
+    "postUrl": "jetson-orin-nano-pocket-supercomputer"
+    },
     {
         "imageUrl": "https://img.freepik.com/foto-gratis/celebracion-futurista-vispera-ano-nuevo_23-2151084843.jpg",
         "title": "Claude: Personalización de Estilos de Texto",
